@@ -152,6 +152,7 @@ class NumberBox extends StatelessWidget {
         borderRadius: BorderRadius.circular(8.0),
       ),
       child: Text(
+
         number.toString(),
         style: const TextStyle(fontSize: 24, color: Colors.white),
       ),
